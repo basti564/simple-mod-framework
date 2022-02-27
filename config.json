@@ -1,5 +1,5 @@
 {
-    runtimePath: 'C:\\Users\\User\\Documents\\Apps\\Games\\Epic Games\\HITMAN3\\Runtime',
+    runtimePath: 'G:\\XGames\\PC - HITMAN 3 - Base Game\\Content\\Retail\\Runtime',
     skipIntro: true,
     outputToSeparateDirectory: true,
     loadOrder: [],
