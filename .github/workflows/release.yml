@@ -104,7 +104,7 @@ jobs:
           name: ${{ steps.latestTag.outputs.tag }}
           body: "Generated automatically on commit:  `${{ github.event.head_commit.message }}`."
           tag_name: ${{ steps.latestTag.outputs.tag }}
-          repository: hitman-resources/simple-mod-framework
+          repository: basti564/simple-mod-framework
           files: dist/Release.zip
   
   sentry-release:
